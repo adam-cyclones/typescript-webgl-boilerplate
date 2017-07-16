@@ -1,0 +1,22 @@
+{
+  "name": "webgl-ts-boiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.13",
+    "@types/webpack": "^3.0.4",
+    "awesome-typescript-loader": "^3.2.1",
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.3.0",
+    "webpack-glsl-loader": "^1.0.1",
+    "webpack-livereload-plugin": "^0.11.0"
+  }
+}
