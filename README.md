@@ -1,4 +1,4 @@
-# webgl glsl with typescript
+# Webgl .glsl with Typescript and Webpack
 
 based on Kyle Robinson Young's excellent tutorial
 
